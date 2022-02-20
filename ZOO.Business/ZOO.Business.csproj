@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZOO.Core\ZOO.Core.csproj" />
+    <ProjectReference Include="..\ZOO.DataAccess\ZOO.DataAccess.csproj" />
+    <ProjectReference Include="..\ZOO.Entities\ZOO.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
